@@ -12,9 +12,16 @@
 
 主要包含三部分：
 
-||JavaScript||
-|:---:|:---:|:---:|
-|ECMAScript|DOM|BOM|
+<table>
+<tr>
+    <th colspan="3" style="text-align:center">JavaScript</th>
+</tr>
+<tr>
+    <td>ECMAScript</td>
+    <td>DOM</td>
+    <td>BOM</td>
+</tr>
+</table>
 
 ### 2.1 ECMASCript
 
